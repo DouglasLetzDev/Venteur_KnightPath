@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dev\\source\\repos\\KnightChess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A20C48-6991-454C-8D83-82586B767ADB}|KnightChess\\KnightChess.csproj|c:\\users\\dev\\source\\repos\\knightchess\\knightchess\\controllers\\knightchess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A20C48-6991-454C-8D83-82586B767ADB}|KnightChess\\KnightChess.csproj|solutionrelative:knightchess\\controllers\\knightchess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A20C48-6991-454C-8D83-82586B767ADB}|KnightChess\\KnightChess.csproj|c:\\users\\dev\\source\\repos\\knightchess\\knightchess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A20C48-6991-454C-8D83-82586B767ADB}|KnightChess\\KnightChess.csproj|solutionrelative:knightchess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A20C48-6991-454C-8D83-82586B767ADB}|KnightChess\\KnightChess.csproj|c:\\users\\dev\\source\\repos\\knightchess\\knightchess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7A20C48-6991-454C-8D83-82586B767ADB}|KnightChess\\KnightChess.csproj|solutionrelative:knightchess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A20C48-6991-454C-8D83-82586B767ADB}|KnightChess\\KnightChess.csproj|c:\\users\\dev\\source\\repos\\knightchess\\knightchess\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A20C48-6991-454C-8D83-82586B767ADB}|KnightChess\\KnightChess.csproj|solutionrelative:knightchess\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\KnightChess\\KnightChess\\appsettings.json",
+              "RelativeDocumentMoniker": "KnightChess\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\KnightChess\\KnightChess\\appsettings.json",
+              "RelativeToolTip": "KnightChess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T14:47:04.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\KnightChess\\KnightChess\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "KnightChess\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\KnightChess\\KnightChess\\WeatherForecast.cs",
+              "RelativeToolTip": "KnightChess\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:46:59.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\KnightChess\\KnightChess\\Program.cs",
+              "RelativeDocumentMoniker": "KnightChess\\Program.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\KnightChess\\KnightChess\\Program.cs",
+              "RelativeToolTip": "KnightChess\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:46:55.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KnightChess.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\KnightChess\\KnightChess\\Controllers\\KnightChess.cs",
+              "RelativeDocumentMoniker": "KnightChess\\Controllers\\KnightChess.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\KnightChess\\KnightChess\\Controllers\\KnightChess.cs",
+              "RelativeToolTip": "KnightChess\\Controllers\\KnightChess.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:10:06.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

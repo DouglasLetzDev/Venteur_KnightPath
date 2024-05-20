@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "KnightChess.Controllers.KnightPathController",
+    "Method": "PostKnightPath",
+    "RelativePath": "api/KnightPath/knightpath",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "source",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "target",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KnightChess.Controllers.KnightPathController",
+    "Method": "GetKnightPath",
+    "RelativePath": "api/KnightPath/knightpath",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "operationId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
